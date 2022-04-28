@@ -1,5 +1,5 @@
 <?php
-$node = 'https://parsecnodes.com/services/node_web';
+$node = 'http://127.0.0.1/services/node_web';
 return array(
 	'api' => $node,
 	'blockTargetInterval' => 240,

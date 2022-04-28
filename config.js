@@ -1,5 +1,5 @@
-var api = 'https://parsecnodes.com/services/node_web';
-var apiList = ["https://node.parsecnodes.com:32616", "https://node2.parsecnodes.com:32616"];
+var api = '127.0.0.1/services/node_web';
+var apiList = ["http://207.246.127.59:32616", "http://45.76.124.54:32616"];
 
 var blockTargetInterval = 240;
 var coinUnits = 1000000000000;
